@@ -1,0 +1,5 @@
+Copyright © 2025 Shreya Reddy A. All rights reserved.
+
+This project and its contents are proprietary. No part of this repository, including source code, visualizations, models, or documentation, may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the author.
+
+Unauthorized use, copying, hosting, or distribution of any part of this project is strictly prohibited.
