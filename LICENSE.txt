@@ -1,0 +1,8 @@
+Copyright (c) 2025 Shreyareddya
+
+All rights reserved.
+
+This source code and associated files are the exclusive property of the author.  
+You may not copy, modify, distribute, or use this project in any form without explicit written permission from the author.
+
+Unauthorized use is strictly prohibited and may be subject to legal action.
